@@ -1,0 +1,54 @@
+section {
+
+    padding: 0 24px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+}
+
+section .seccion1 {
+
+    font-size: 13px;
+    margin-top: 40px;
+    width: 340px;
+    height: 24px;
+
+}
+
+section .texto1 {
+
+    color: rgb(88, 98, 235);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+section .subt1 {
+
+    color: rgba(72, 98, 132, 1);
+    font-size: 22px;
+    font-weight: 600;
+}
+
+section .descripcion {
+
+    color: rgba(140, 162, 192, 1);
+    font-size: 16px;
+    font-weight: 250;
+}
+
+.boton1 {
+
+    width: 100%;
+    border: 1px solid rgb(72, 98, 132);
+    border-radius: 30px;
+    padding: 20px;
+
+    font-size: 16px;
+    color: rgb(72, 98, 132);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
