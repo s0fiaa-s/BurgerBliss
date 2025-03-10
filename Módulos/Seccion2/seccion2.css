@@ -1,0 +1,113 @@
+section {
+
+    padding: 0 24px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+}
+
+section .seccion2 {
+
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+    width: 340px;
+    height: 24px;
+
+}
+
+section .texto2 {
+
+    color: rgb(88, 98, 235);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+section .subt2 {
+
+    color: rgba(72, 98, 132, 1);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+section .descripcion2 {
+
+    color: rgba(140, 162, 192, 1);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 250;
+
+    padding: 12px 0;
+}
+
+.boton2 {
+
+    width: 100%;
+    border: 1px solid rgb(72, 98, 132);
+    border-radius: 30px;
+    padding: 20px;
+
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(72, 98, 132, 1);
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.boton3 {
+
+    width: 100%;
+    border: 1px solid rgb(72, 98, 132);
+    border-radius: 30px;
+    padding: 20px;
+
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(72, 98, 132);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.subt23 {
+
+    color: rgba(156, 176, 201, 1);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    font-weight: 500;
+    
+    padding: 8px 8px;
+}
+
+.imgS2 img {
+
+    width: 28%;
+    padding: 4px 4px;
+
+}
+
+.imgS2 {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+
+}
+
+.imgS23 {
+
+    width: 100%;
+    height: 95%;
+    padding: 15px;
+
+    display: flex;
+    justify-content: center;
+
+}
